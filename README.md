@@ -1,0 +1,4 @@
+SocioPatterns Python analysis framework
+=======================================
+
+
